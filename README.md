@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer & content creater from colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juancode88&label=Profile%20views&color=0e75b6&style=flat" alt="juancode88" /> </p>
-<img aling="right" alt="coding" widht="400" src= "https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg">
+<img align="right" alt="coding" widht="400" src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan josé lópez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan josé lópez" height="30" width="40" /></a>
