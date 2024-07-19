@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan José</h1>
 <h3 align="center">A passionate fullstack developer & content creater from colombia</h3>
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" widht="100" height="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 <p align="left">
